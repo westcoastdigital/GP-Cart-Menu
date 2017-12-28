@@ -1,0 +1,7 @@
+nav #primary-menu span {
+    margin-left: 0;
+}
+nav #primary-menu span.count {
+    font-size: inherit;
+    opacity: 1;
+}
